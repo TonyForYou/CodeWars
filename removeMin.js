@@ -12,3 +12,4 @@ function removeSmallest(numbers) {
 
 // https://stackoverflow.com/questions/9549780/what-does-this-symbol-mean-in-javascript
 // what does ... mean? it is spread syntax. allows to accept a variable number of arguments and store them in an array
+// key here was to know the indexOfMin and indexOf operators, then use slice to put things together.
